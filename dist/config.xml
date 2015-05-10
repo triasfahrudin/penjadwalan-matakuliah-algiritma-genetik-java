@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<setting>
+ <database>
+   <url>jdbc:mysql://localhost:3306/</url>
+   <driver>com.mysql.jdbc.Driver</driver>
+   <user>root</user>
+   <password></password>
+   <database>penjadwalan</database>
+ </database>
+
+ <genetik>
+   <populasi>10</populasi>   
+   <crossover>0.70</crossover> 
+   <mutasi>0.40</mutasi>
+   <kode_jumat>5</kode_jumat>
+   <range_jumat>4-5-6</range_jumat>
+   <kode_dhuhur>6</kode_dhuhur>
+   <max_iterasi>10000</max_iterasi>
+ </genetik> 
+</setting>

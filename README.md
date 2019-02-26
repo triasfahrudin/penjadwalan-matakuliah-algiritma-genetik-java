@@ -1,3 +1,6 @@
-# penjadwalan-genetik-java
-Penjadwalan genetik dengan menggunakan bahasa pemrograman Java
-moved to bitbucket
+# penjadwalan kuliah dengan algoritma genetik
+Penjadwalan kuliah dengan menggunakan algortima genetik 
+Menggunakan bahasa pemrograman Java
+
+
+
